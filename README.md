@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rieckypoerwadiredja
 - 👀 I’m interested in web and app programming 
-- 🌱 I’m currently learning HTML, CSS, Javascript, next (react,sql and php)
+- 🌱 I’m currently learning HTML, CSS, Javascript, NodeJS next (react,sql and php)
 - 💞️ I’m looking to collaborate on (not for now)
 - 📫 How to reach me (not for now)
 
