@@ -48,13 +48,16 @@
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***My working tools...***
 <p align="left">
-  
- <img height="50" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg">
- <img height="50" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg">
- <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png">
- <img height="50" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg"> 
- <img height="50" src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg"> 
- <img height="50" src="https://github.com/uiwjs/file-icons/blob/master/icon/json.svg"> 
+
+<img height="32px" align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"> 
+<img height="32px" align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">
+<img height="32px" align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
+<img height="32px" align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
+<img height="32px" align="left" src="https://avatars.githubusercontent.com/u/18133?s=200&v=4">
+<img height="32px" align="left" src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg">
+
+
+<br />
 
   <hr>
   <p align="center">
