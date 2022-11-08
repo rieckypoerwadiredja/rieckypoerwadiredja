@@ -16,10 +16,9 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Riecky Syarief Poerwadiredja </h1>
 <h3 align="center">Full Stack Web Developer | Enterpreneur </h3>
 <p align="center">
-<a href="" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" alt="hack_ovindu" height="30" width="40" /></a>
-<a href="" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/174/174857.png" alt="lin_ovindu" height="30" width="40" /></a>  
-<a href="https://www.instagram.com/riecky_wiwaha/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/174/174855.png" alt="insta_ovindu" height="30" width="40" /></a>
- <a href = "mailto: rieckysyarief@gmail.com"><img align="center" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" height="30" width="40" /></a>
+  <a href="https://github.com/rieckypoerwadiredja" target="blank"><img src="https://skillicons.dev/icons?i=github" /></a>  
+  <a href="https://www.linkedin.com/in/riecky-syarief-poerwadiredja/" target="blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>  
+  <a href="https://www.instagram.com/riecky_wiwaha/" target="blank"><img src="https://skillicons.dev/icons?i=instagram" /></a>
 </p>
 </p>
 
@@ -40,7 +39,7 @@
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
 
 ✔ Callme: ***Riecky*** or ***Erick*** 😊 <br>
-✔ I’m currently Developing a Music Apps with **Javascript language**<br>
+✔ I’m currently Learning Web Devenopment with **Javascript language** and Data Analytics with **Tableau & R** <br>
 ✔ I’m looking to collaborate with any **Open - Source web projects**<br>
 ✔ Ask from me anything you want, If I am alive I will answer within seconds 😉<br>
 ✔ Fun fact : *I Always try to learn something new and then sleep till it store in the brain* 😎<br><br><br><br>
@@ -49,13 +48,8 @@
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***My working tools...***
 <p align="left">
 
-<img height="32px" align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"> 
-<img height="32px" align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">
-<img height="32px" align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
-<img height="32px" align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
-<img height="32px" align="left" src="https://avatars.githubusercontent.com/u/18133?s=200&v=4">
-<img height="32px" align="left" src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg">
 
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,javascript,react,nodejs,express,r,md,vercel,git,github,vscode" />
 
 <br />
 
@@ -76,7 +70,7 @@
 
 -----
 
-Last Edited on: 24/01/2022
+Last Edited on: 08/11/2022
 
 
 
